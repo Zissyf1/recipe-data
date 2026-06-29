@@ -1,2 +1,1 @@
-eggs, milk, flour
-sugar 
+eggs, white flour, sugar, full fat milk 
