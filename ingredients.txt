@@ -1,2 +1,1 @@
-eggs, milk, flour
-sugar 
+eggs, low fat milk, whole wheat flour, sweetener 
